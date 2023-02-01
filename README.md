@@ -8,4 +8,4 @@ Dynamiser le site
 
 
 ## Ressources
-Lien du Gira
+Lien du Jira
